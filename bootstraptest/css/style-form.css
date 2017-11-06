@@ -1,0 +1,48 @@
+.modal-content {
+  /*box-sizing: border-box;
+  width: 260px;*/
+  /*margin: 100px auto 0;*/
+  box-shadow: 2px 2px 5px 1px rgba(0, 0, 0, 0.2);
+  /*padding-bottom: 40px;*/
+  border-radius: 10px;
+}
+
+
+
+h2{
+
+	/*height: 50px;
+	width: 100%;
+	font-size: 20px;
+	background: #4169E1;
+	color: white;	
+	border-radius: 3px 3px 0 0;
+	box-shadow: 0 2px 5px 1px rgba(0, 0, 0, 0.2);*/
+
+}
+
+button:hover {
+  -webkit-transform: translateY(-3px);
+      -ms-transform: translateY(-3px);
+          transform: translateY(-3px);
+  box-shadow: 0 6px 6px 0 rgba(0, 0, 0, 0.2);
+}
+
+.text-center {
+    text-align: center;
+}
+.text-right {
+    text-align: right;
+}
+
+.navbar {
+      margin-bottom: 0;
+      border-radius: 0;
+    }
+    
+    /* Add a gray background color and some padding to the footer */
+  /*  footer {
+      background-color: #f2f2f2;
+      padding: 25px;
+    }
+*/
